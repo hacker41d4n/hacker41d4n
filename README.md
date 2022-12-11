@@ -1,10 +1,8 @@
 ### Hi i am hacker41d4n 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-https://giphy.com/embed/hx3VJAZMCaqVSOly3s
 ### About Me:
 
 - 🔭 I’m currently working on my own website
