@@ -1,7 +1,7 @@
 ### Hi i am hacker41d4n 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="100"/>
+  <img src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s"/>
 </div>
 
 https://giphy.com/embed/hx3VJAZMCaqVSOly3s
