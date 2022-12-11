@@ -1,8 +1,6 @@
 ### Hi i am hacker41d4n 👋
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="100"/>
-</div>
 
+<iframe src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="480" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-code-coding-hx3VJAZMCaqVSOly3s">via GIPHY</a></p>
 ### About Me:
 
 - 🔭 I’m currently working on my own website
