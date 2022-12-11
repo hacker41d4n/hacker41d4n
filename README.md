@@ -21,5 +21,5 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hacker41d4n)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hacker41d4n&theme=hacker&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
