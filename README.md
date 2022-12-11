@@ -5,3 +5,4 @@
 - 💬 Ask me about tech releated stuff
 - ⚡ Fun fact: since 2016 into IT stuff
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hacker41d4n)](https://git.io/streak-stats)
