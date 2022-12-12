@@ -1,7 +1,7 @@
 ### Hi i am hacker41d4n 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/mr-robot-mrrobot-xTiTnLxAA1LTBMKMkU" width="100"/>
+  <img src="https://giphy.com/gifs/mr-robot-mrrobot-xTiTnLxAA1LTBMKMkU"/>
 </div>
 
 ### About Me:
