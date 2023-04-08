@@ -4,8 +4,8 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on my own website
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on my server
+- 🌱 I’m currently learning powershell
 - 💬 Ask me about tech releated stuff
 - ⚡ Fun fact: since 2016 into IT stuff
 
