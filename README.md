@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" = title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APowerShell_Core_6.0_icon.png&psig=AOvVaw0qqjzUNT47pIwUDQcecEUN&ust=1681041355689000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDA2pidmv4CFQAAAAAdAAAAABAE)" title="PowerShell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
   
 </div>
 
